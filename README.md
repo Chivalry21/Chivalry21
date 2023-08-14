@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Chioma Victoria Nwadozie</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
-<img align="center" width="400" alt="coding" src=""/>
+<img align="center" width="400" alt="coding" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chivalry21&label=Profile%20views&color=0e75b6&style=flat" alt="chivalry21" /> </p>
 
